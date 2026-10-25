@@ -16,4 +16,4 @@ _Added as notes are created._
 _Added as notes are created._
 
 ## Recent daily notes (latest 10)
-- [[2026-10-26]]
+- [2026-10-26](Daily/2026-10-26.md)
