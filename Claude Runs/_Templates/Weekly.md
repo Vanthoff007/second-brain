@@ -1,6 +1,6 @@
 # Weekly robotics digest: {{date:YYYY-MM-DD}}
 Date range: <Mon YYYY-MM-DD> → <Sun YYYY-MM-DD>
-Links: [[Home]] · <topic and hardware [[wikilinks]]>
+Links: [Home](../Home.md) · <relative links to topic and hardware notes, e.g. [Visual SLAM](../Topics/Visual-SLAM.md)>
 
 ## Summary
 <2–3 sentences: the single most relevant development for embedded perception and SLAM, and whether the week was active or quiet>

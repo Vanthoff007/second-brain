@@ -1,6 +1,6 @@
 # Robotics digest: {{date:YYYY-MM-DD}}
 Window: <start date> → <end date>
-Links: [[Home]] · <topic and hardware [[wikilinks]]>
+Links: [Home](../Home.md) · <relative links to topic and hardware notes, e.g. [Visual SLAM](../Topics/Visual-SLAM.md)>
 
 ## Needs action
 <robotics-related correspondence needing a reply or decision, or "none">
