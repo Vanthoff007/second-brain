@@ -5,3 +5,6 @@
 - **AnchorFlow-VIO** — described as open-source, Basalt-derived; repository URL not verified, see paper page https://www.alphaxiv.org/abs/2610.26210.
 - **SSIO** — project page listed on the paper: https://ssio-imu.github.io (as printed in the paper header; not visited).
 - **NVIDIA Isaac Lab 3.0** — open-source, GA 2026-10-21 per NVIDIA: https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data
+
+## Updates — 2026-11-06
+- **Intrinsic Core** — open-source real-time control framework, ROS-interoperable, aimed at industrial workcells (per Open Robotics Discourse; repo not inspected). Announcement: https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457 — see [Daily 2026-11-06](../Daily/2026-11-06.md).
