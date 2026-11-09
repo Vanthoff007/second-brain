@@ -8,3 +8,7 @@
 
 ## Updates — 2026-11-06
 - **Intrinsic Core** — open-source real-time control framework, ROS-interoperable, aimed at industrial workcells (per Open Robotics Discourse; repo not inspected). Announcement: https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457 — see [Daily 2026-11-06](../Daily/2026-11-06.md).
+
+## Updates — 2026-11-09
+- **Open-source ROS 2 stack for vision-based rover navigation** (MSU Rover Team et al.) — described as open-source in the abstract; repository URL not verified. Paper: https://www.alphaxiv.org/abs/2611.08100 — see [Weekly 2026-11-09](../Weekly/2026-11-09.md).
+- No other new repositories verified this week.
