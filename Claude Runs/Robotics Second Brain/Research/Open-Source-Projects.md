@@ -12,3 +12,7 @@
 ## Updates — 2026-11-09
 - **Open-source ROS 2 stack for vision-based rover navigation** (MSU Rover Team et al.) — described as open-source in the abstract; repository URL not verified. Paper: https://www.alphaxiv.org/abs/2611.08100 — see [Weekly 2026-11-09](../Weekly/2026-11-09.md).
 - No other new repositories verified this week.
+
+## Updates — 2026-11-03
+- **LoongForge-VLDA** — Vision-Language-Delta-Action model extending π₀.₅ with V-JEPA 2 latent world modeling, built on LoongForge (source fact from Weekly Robotics #383 quoting the README). Repo URL not resolved (newsletter used tracked redirects); manipulation-focused. Found via the [2026-11-03 digest](../Daily/2026-11-03.md).
+- **Robotheca** — open-source robot library, 450+ robots with BOM prices and scores (per Weekly Robotics #383; not visited, URL not resolved).
