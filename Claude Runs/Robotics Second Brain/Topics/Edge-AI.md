@@ -7,3 +7,6 @@
 
 ## Updates — 2026-11-09
 - **Energy-aware open-vocabulary detection scheduling (2611.07663)** skips inference on low-value frames; **Aero-VPA (2611.04392)** targets few-step action decoding on embedded aerial hardware. Abstract-level only; no hardware figures read [source fact]. Measured runtime numbers for a VIO front-end filter are in [Visual SLAM](Visual-SLAM.md). See [Weekly 2026-11-09](../Weekly/2026-11-09.md).
+
+## Updates — 2026-11-13
+- **ZED ROS 2 Wrapper 5.6** adds CUDA zero-copy image transport using `rosidl::Buffer` (ROS 2 Lyrical, Isaac ROS 5) [source fact, title only; no latency figures seen]. Relevant to camera-to-inference latency on Jetson-class targets. https://discourse.openrobotics.org/t/zed-ros-2-wrapper-5-6-cuda-zero-copy-with-rosidl-buffer-for-ros-2-lyrical-and-isaac-ros-5/59608

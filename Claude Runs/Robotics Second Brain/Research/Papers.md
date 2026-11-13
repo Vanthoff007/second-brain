@@ -29,3 +29,6 @@ Entries added by weekly digests. Labels: [source fact] from abstract; [measured]
 - **VisionSIM** (2026-11-05). https://www.alphaxiv.org/abs/2611.08368
 - **Open-Source Stack for Vision-Based Rover Navigation** (2026-11-05). https://www.alphaxiv.org/abs/2611.08100
 Full context: [Weekly 2026-11-09](../Weekly/2026-11-09.md).
+
+## Updates — 2026-11-13
+- **Task-Driven Closed-Loop Design Optimization of Passively Morphing Quadrotors for Contact-Mediated Narrow Gap Traversal** — width 31.3 → 14.1 cm, passes a 15 cm opening at 2 m/s reference speed, NMPC control [measured, as quoted in Weekly Robotics #384]. Paper URL not resolved (tracked redirect). See [Daily 2026-11-13](../Daily/2026-11-13.md).

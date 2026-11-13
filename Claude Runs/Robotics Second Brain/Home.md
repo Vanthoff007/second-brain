@@ -21,6 +21,7 @@ _Added as notes are created._
 - [2026-10-26](Weekly/2026-10-26.md)
 
 ## Recent daily notes (latest 10)
+- [2026-11-13](Daily/2026-11-13.md)
 - [2026-11-10](Daily/2026-11-10.md)
 - [2026-11-06](Daily/2026-11-06.md)
 - [2026-11-03](Daily/2026-11-03.md)

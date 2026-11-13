@@ -16,3 +16,8 @@
 ## Updates — 2026-11-03
 - **LoongForge-VLDA** — Vision-Language-Delta-Action model extending π₀.₅ with V-JEPA 2 latent world modeling, built on LoongForge (source fact from Weekly Robotics #383 quoting the README). Repo URL not resolved (newsletter used tracked redirects); manipulation-focused. Found via the [2026-11-03 digest](../Daily/2026-11-03.md).
 - **Robotheca** — open-source robot library, 450+ robots with BOM prices and scores (per Weekly Robotics #383; not visited, URL not resolved).
+
+## Updates — 2026-11-13
+- **StrataSLAM** — open-source multi-floor 3D SLAM for ROS 2 (Intelligent Robotics Lab, URJC), per Open Robotics Discourse. Repo URL not resolved: the source page was blocked in this run. Announcement: https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649 — see [Visual SLAM](../Topics/Visual-SLAM.md).
+- **ZED ROS 2 Wrapper 5.6** — CUDA zero-copy image transport via `rosidl::Buffer`, for ROS 2 Lyrical and Isaac ROS 5 (title only, not read): https://discourse.openrobotics.org/t/zed-ros-2-wrapper-5-6-cuda-zero-copy-with-rosidl-buffer-for-ros-2-lyrical-and-isaac-ros-5/59608
+- **batchplan** — Rust library for batched, collision-aware motion planning (IK, paths, trajectories), CPU with optional wgpu acceleration (README quoted in Weekly Robotics #384). URL not resolved (tracked redirect).
