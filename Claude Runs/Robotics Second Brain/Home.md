@@ -3,6 +3,7 @@
 ## Topic areas
 - [Learned inertial odometry](Topics/Learned-Inertial-Odometry.md)
 - [Visual SLAM](Topics/Visual-SLAM.md)
+- [Visual odometry](Topics/Visual-Odometry.md)
 - [Edge AI](Topics/Edge-AI.md)
 - [Sensor fusion](Topics/Sensor-Fusion.md)
 
@@ -17,6 +18,7 @@
 _Added as notes are created._
 
 ## Recent weekly notes (latest 4)
+- [2026-11-16](Weekly/2026-11-16.md)
 - [2026-11-09](Weekly/2026-11-09.md)
 - [2026-10-26](Weekly/2026-10-26.md)
 

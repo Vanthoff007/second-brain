@@ -21,3 +21,11 @@
 - **StrataSLAM** — open-source multi-floor 3D SLAM for ROS 2 (Intelligent Robotics Lab, URJC), per Open Robotics Discourse. Repo URL not resolved: the source page was blocked in this run. Announcement: https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649 — see [Visual SLAM](../Topics/Visual-SLAM.md).
 - **ZED ROS 2 Wrapper 5.6** — CUDA zero-copy image transport via `rosidl::Buffer`, for ROS 2 Lyrical and Isaac ROS 5 (title only, not read): https://discourse.openrobotics.org/t/zed-ros-2-wrapper-5-6-cuda-zero-copy-with-rosidl-buffer-for-ros-2-lyrical-and-isaac-ros-5/59608
 - **batchplan** — Rust library for batched, collision-aware motion planning (IK, paths, trajectories), CPU with optional wgpu acceleration (README quoted in Weekly Robotics #384). URL not resolved (tracked redirect).
+
+## Updates — 2026-11-16
+- **slam-dunk** — code for the SLAM Dunk long-horizon bundle-adjustment pipeline (URL as printed in the paper; repository not visited): https://github.com/jacobvm04/slam-dunk — see [Papers](Papers.md).
+- **HiPFuse** — LiDAR semantic segmentation for edge devices (URL as printed in the paper; repository not visited): https://github.com/haiyang2022/HiPFuse
+- **NXP Robotics SDK** — open-source SDK integrating PX4, Zephyr and ROS 2 for NXP drone reference designs (per the NXP release; repository URL not verified): https://media.nxp.com/news-releases/news-release-details/nxp-unveils-unified-robotics-platform-speed-trusted-physical-ai/
+- **Gazebo depth-camera clipping planes** — open pull requests gz-rendering#1418 and gz-sensors#701 (per PMC minutes; PRs not opened): https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-11-09/59702
+- Stated as "will be released", nothing to link yet: NIF-VIO code and dataset (on acceptance), DFIO source code.
+See [Weekly 2026-11-16](../Weekly/2026-11-16.md).

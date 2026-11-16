@@ -32,3 +32,15 @@ Full context: [Weekly 2026-11-09](../Weekly/2026-11-09.md).
 
 ## Updates — 2026-11-13
 - **Task-Driven Closed-Loop Design Optimization of Passively Morphing Quadrotors for Contact-Mediated Narrow Gap Traversal** — width 31.3 → 14.1 cm, passes a 15 cm opening at 2 m/s reference speed, NMPC control [measured, as quoted in Weekly Robotics #384]. Paper URL not resolved (tracked redirect). See [Daily 2026-11-13](../Daily/2026-11-13.md).
+
+## Updates — 2026-11-16
+- **RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5** (IIT Bombay, IIT Mandi, 2026-11-12) — [measured] ORB-SLAM3 26–62 ms/frame, RTAB-Map 150–462 ms/frame (per-frame worst case). Problem: [Edge AI](../Topics/Edge-AI.md). Method and findings: [Visual SLAM](../Topics/Visual-SLAM.md). Hardware: [Compute platforms](../Hardware/Compute-Platforms.md). https://www.alphaxiv.org/abs/2611.16472
+- **SLAM Dunk: A Recipe for Long-Horizon Egocentric SLAM in the Wild** (UC Berkeley, 2026-11-15) — [measured] LaMAria training ATE 1.02 → 0.43 m with time-varying camera calibration and gyroscope intrinsics; offline. [Visual SLAM](../Topics/Visual-SLAM.md), [Sensor fusion](../Topics/Sensor-Fusion.md). https://www.alphaxiv.org/abs/2611.slam-dunk
+- **NIF-VIO** (2026-11-10) — [measured] correct-localisation rate above 98% inside moving carriers. [Visual SLAM](../Topics/Visual-SLAM.md), [Sensor fusion](../Topics/Sensor-Fusion.md). https://www.alphaxiv.org/abs/2611.13662
+- **Differentiable Filtering for Inertial Odometry (DFIO)** (2026-11-10) — [measured] mean ATE −13.2% and RTE-1s −39.6% against TLIO. [Learned inertial odometry](../Topics/Learned-Inertial-Odometry.md). https://www.alphaxiv.org/abs/2611.13517
+- **S²D-FVO: Scale-Consistent Monocular Fisheye Visual Odometry** (2026-11-09) — [measured] KITTI-360 average ATE 31.5 m against 335.4 m for OV²SLAM. [Visual odometry](../Topics/Visual-Odometry.md). https://www.alphaxiv.org/abs/2611.11934
+- **HiPFuse** (University of Twente, 2026-11-10) — [measured] 14.2 FPS on Jetson AGX Orin at 63.7% mIoU (SemanticKITTI). [Edge AI](../Topics/Edge-AI.md), [Compute platforms](../Hardware/Compute-Platforms.md). https://www.alphaxiv.org/abs/2611.14025
+- **Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion** (UC Riverside, JPL, 2026-11-11) — abstract only. https://www.alphaxiv.org/abs/2611.14958
+- **GEMOR-GS** (2026-11-10) — abstract only. [Sensor fusion](../Topics/Sensor-Fusion.md). https://www.alphaxiv.org/abs/2611.13528
+- **RAPA: Ray-Aware Physics Augmentation for Robust Camera-LiDAR Calibration** (Yonsei, 2026-11-09) — abstract only. [Sensor fusion](../Topics/Sensor-Fusion.md). https://www.alphaxiv.org/abs/2611.12129
+Full context: [Weekly 2026-11-16](../Weekly/2026-11-16.md).
