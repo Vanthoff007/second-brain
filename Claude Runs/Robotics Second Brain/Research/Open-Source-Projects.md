@@ -29,3 +29,6 @@
 - **Gazebo depth-camera clipping planes** — open pull requests gz-rendering#1418 and gz-sensors#701 (per PMC minutes; PRs not opened): https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-11-09/59702
 - Stated as "will be released", nothing to link yet: NIF-VIO code and dataset (on acceptance), DFIO source code.
 See [Weekly 2026-11-16](../Weekly/2026-11-16.md).
+
+## Updates — 2026-11-17
+- **Vision AI Drone** — YOLOv8 fire, smoke and tiny-object detection for aerial video; "Three ready-to-run modules, trained weights included" (Medium teaser, Spilabkorea; article not read, repo URL not resolved): https://medium.com/@spilabkorea/vision-ai-drone-open-source-yolov8-fire-smoke-and-tiny-object-detection-for-aerial-video-08ecbe342ac3 — see [Daily 2026-11-17](../Daily/2026-11-17.md).
